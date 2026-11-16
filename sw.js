@@ -1,7 +1,7 @@
 // Service worker: makes the site work offline.
 // Strategy: network first (so a new push always shows up when online), saved copy only when the network fails.
-// 2f9e96c710cb is replaced by tools/build_site_v2.py; a new version removes the old saved copy.
-const CACHE = 'qbank-2f9e96c710cb';
+// 77eb977116ff is replaced by tools/build_site_v2.py; a new version removes the old saved copy.
+const CACHE = 'qbank-77eb977116ff';
 const CORE = ["./", "index.html", "app.js", "theme.js", "style.css", "manifest.webmanifest", "favicon.svg", "icon-180.png", "icon-192.png", "icon-512.png", "data/registry.json", "data/all.json", "data/images/l01_innate_immunity_p31_27.jpg", "data/images/l02_complement_system_p15_24.jpg", "data/images/l03_antigen_presentation_p40_28.jpg", "data/images/l05_vaccines_p23_14.jpg", "data/images/l07_rbc_membrane_enzyme_p11_35.jpg", "data/images/l07_rbc_membrane_enzyme_p6_02.jpg", "data/images/l08_thrombosis_thrombophilia_p15_02.jpg"];
 
 self.addEventListener('install', e => {
