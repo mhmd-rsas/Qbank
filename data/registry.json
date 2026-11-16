@@ -13,6 +13,7 @@
   "data/hematology/clinical-sciences/cbc-blood-smear-and-anemia-classification.json",
   "data/hematology/clinical-sciences/microcytic-anemias.json",
   "data/hematology/clinical-sciences/hemolytic-anemias.json",
+  "data/hematology/clinical-sciences/normocytic-and-macrocytic-anemias.json",
   "data/hematology/pathology/acute-inflammation-tbl.json",
   "data/hematology/pathology/chronic-inflammation-tbl.json",
   "data/foundations/biochemistry/intro-to-biochemistry-and-cell-structure.json",
