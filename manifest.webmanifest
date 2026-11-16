@@ -1,12 +1,12 @@
 {
-  "name": "LAU QBank",
-  "short_name": "QBank",
-  "description": "Personal question bank for LAU medical school modules.",
+  "name": "CourseWise",
+  "short_name": "CourseWise",
+  "description": "Study by lecture: summaries, flashcards and exam-style questions.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f4f5f2",
-  "theme_color": "#1f6f8b",
+  "background_color": "#f5f6fa",
+  "theme_color": "#3f51c9",
   "icons": [
     {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
     {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},

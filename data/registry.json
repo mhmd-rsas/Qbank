@@ -1,4 +1,7 @@
 {
+ "version": "4e5efe275152",
+ "built": "16 Nov 2026",
+ "bundle": "data/all.json",
  "modules": [{"name": "Hematology", "title": "Hematology & Immunology", "note": ""}, {"name": "Foundations", "title": "Foundations", "note": ""}],
  "lectures": [
   "data/hematology/immunology/innate-immunity.json",
@@ -16,6 +19,8 @@
   "data/hematology/clinical-sciences/normocytic-and-macrocytic-anemias.json",
   "data/hematology/clinical-sciences/thalassemia.json",
   "data/hematology/clinical-sciences/sickle-cell-disease.json",
+  "data/hematology/clinical-sciences/rbc-membrane-and-enzyme-disorders.json",
+  "data/hematology/clinical-sciences/thrombosis-and-thrombophilia.json",
   "data/hematology/pathology/acute-inflammation-tbl.json",
   "data/hematology/pathology/chronic-inflammation-tbl.json",
   "data/foundations/biochemistry/intro-to-biochemistry-and-cell-structure.json",
