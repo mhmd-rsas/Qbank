@@ -1,6 +1,6 @@
 {
- "version": "498bf2be9307",
- "built": "16 Nov 2026",
+ "version": "bdaa8ef314b9",
+ "built": "17 Nov 2026",
  "bundle": "data/all.json",
  "modules": [{"name": "Hematology", "title": "Hematology & Immunology", "note": ""}, {"name": "Foundations", "title": "Foundations", "note": ""}],
  "lectures": [
@@ -25,6 +25,13 @@
   "data/hematology/clinical-sciences/disorders-of-hemostasis.json",
   "data/hematology/clinical-sciences/laboratory-bleeding-measures.json",
   "data/hematology/clinical-sciences/hemophilia.json",
+  "data/hematology/clinical-sciences/disorders-of-white-blood-cells.json",
+  "data/hematology/clinical-sciences/bone-marrow-failure-and-aplastic-anemia.json",
+  "data/hematology/clinical-sciences/hematologic-complications-in-pregnancy.json",
+  "data/hematology/clinical-sciences/blood-transfusion-and-iron-overload.json",
+  "data/hematology/clinical-sciences/cellular-therapies-in-non-malignant-hematology.json",
+  "data/hematology/biochemistry/hemoglobin-structure-and-function.json",
+  "data/hematology/biochemistry/heme-metabolism.json",
   "data/hematology/pathology/acute-inflammation-tbl.json",
   "data/hematology/pathology/chronic-inflammation-tbl.json",
   "data/foundations/biochemistry/intro-to-biochemistry-and-cell-structure.json",
